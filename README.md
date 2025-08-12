@@ -53,7 +53,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Wenura's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenux&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=wenux&theme=tokyonight&hide_border=false)  
+![Wenura's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenux2003show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=wenux2003theme=tokyonight&hide_border=false)  
 
 ---
