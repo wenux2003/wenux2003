@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Wenura 
 
-💻 I'm an IT student at **SLIIT** (Year 2, Semester 2)  
+💻 I'm an IT student at **SLIIT** (Year 3, Semester 1)  
 🌱 Aspiring **Full-Stack Developer**  
-🎯 Currently mastering **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🎯 Currently mastering **Python** (for Ai & ML)  
 ✨ Passionate about building modern, responsive, and user-friendly web apps.
 
 ---
@@ -30,6 +30,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### **Frameworks & Libraries**
