@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wenura 
 
-💻 I'm an IT student at **SLIIT** (Year 3, Semester 1)  
+💻 I'm an Software Engineering Undergraduate at **SLIIT** (Year 3, Semester 1)  
 🌱 Aspiring **Full-Stack Developer**  
 🎯 Currently mastering **Python** (for Ai & ML)  
 ✨ Passionate about building modern, responsive, and user-friendly web apps.
