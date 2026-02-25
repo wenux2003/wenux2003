@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=435&lines=Software+Engineering+Student;Aspiring+Full-Stack+Developer;Wincenzo;Anime+%26+Gaming+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=435&lines=Software+Engineering+Student;MERN+Stack+Developer;UI+UX+Designer;Freelance+Web+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,9 +17,6 @@
 - 🎮 Hobbies: Coding, Gaming, Traveling, Listening to Music  
 - 📚 Love exploring new technologies and frameworks  
 - 🤝 Open to collaborating on exciting projects 
-
-📷 **Connect with me using:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_wenux?igsh=MTlrdnEwYXpjeHBscg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenura-kavinda-90232b333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wenurarcc@gmail.com)
-
 
 ---
 
