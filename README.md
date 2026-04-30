@@ -2,9 +2,9 @@
 
 <img align="right" src="https://media.tenor.com/V73QW71DVLwAAAAm/shrugging-shoulders-shrugs-shoulders.webp" width="160" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wenux2003&label=Profile%20Views&color=7B61FF&style=for-the-badge" alt="Profile Views" />
-</p>
+<h1>
+  <img src="https://komarev.com/ghpvc/?username=wenux2003&label=Views&color=7B61FF&style=flat" align="right"/>
+</h1>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
