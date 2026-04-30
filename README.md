@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=435&lines=Software+Engineering+Student;MERN+Stack+Developer;UI+UX+Designer;Freelance+Web+Developer;" alt="Typing SVG" />
+  </a>
+</p>
+
 💻 I'm a Software Engineering Undergraduate at **SLIIT** (Year 3, Semester 1)  
 ✨ Passionate about building modern, responsive, and user-friendly web apps.
 
