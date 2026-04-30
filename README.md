@@ -3,9 +3,7 @@
 <img align="right" src="https://media.tenor.com/V73QW71DVLwAAAAm/shrugging-shoulders-shrugs-shoulders.webp" width="160" />
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=435&lines=Software+Engineering+Student;MERN+Stack+Developer;UI+UX+Designer;Freelance+Web+Developer;" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wenux2003&label=Profile%20Views&color=7B61FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="left">
