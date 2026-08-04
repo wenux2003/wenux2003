@@ -15,7 +15,7 @@
 <h3 align="center">💡 I design and build clean, scalable, and user-focused software solutions.</h3>
 
 <p align="center">
-  💻 Software Engineering Undergraduate at <b>SLIIT</b> (Year 3, Semester 1) &nbsp;|&nbsp; 📍 Ruwanwella, Sri Lanka
+  💻 Software Engineering Undergraduate at <b>SLIIT</b> (Year 3, Semester 2) &nbsp;|&nbsp; 📍 Ruwanwella, Sri Lanka
 </p>
 
 ---
@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenux2003&show_icons=true&theme=radical&hide_border=true&title_color=7B61FF&icon_color=7B61FF&count_private=true" alt="Wenura's Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenux2003&layout=compact&theme=radical&hide_border=true&title_color=7B61FF" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=wenux2003&show_icons=true&theme=radical&hide_border=true&title_color=7B61FF&icon_color=7B61FF&count_private=true" alt="Wenura's Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=wenux2003&layout=compact&theme=radical&hide_border=true&title_color=7B61FF" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
