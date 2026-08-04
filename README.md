@@ -1,19 +1,22 @@
-# 👋 Hi, I'm Wenura
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=180&section=header&text=Hi,%20I'm%20Wenura%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-<img align="right" src="https://media.tenor.com/V73QW71DVLwAAAAm/shrugging-shoulders-shrugs-shoulders.webp" width="160" />
-
-<h1>
-  <img src="https://komarev.com/ghpvc/?username=wenux2003&label=Views&color=7B61FF&style=flat" align="right"/>
-</h1>
-
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=435&lines=Software+Engineering+Student;MERN+Stack+Developer;UI+UX+Designer;Freelance+Web+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&width=520&center=true&vCenter=true&lines=Software+Engineering+Student;MERN+Stack+Developer;UI%2FUX+Designer;Freelance+Web+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
-💻 I'm a Software Engineering Undergraduate at **SLIIT** (Year 3, Semester 1)  
-✨ Passionate about building modern, responsive, and user-friendly web apps.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wenux2003&label=Profile+Views&color=7B61FF&style=for-the-badge"/>
+</p>
+
+<h3 align="center">💡 I design and build clean, scalable, and user-focused software solutions.</h3>
+
+<p align="center">
+  💻 Software Engineering Undergraduate at <b>SLIIT</b> (Year 3, Semester 1) &nbsp;|&nbsp; 📍 Ruwanwella, Sri Lanka
+</p>
 
 ---
 
