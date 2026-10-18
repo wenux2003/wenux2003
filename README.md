@@ -73,16 +73,6 @@
 
 ---
 
-## 📈 Pull Requests & Issues
-
-<p align="left">
-  <a href="https://github.com/wenux2003">
-    <img src="https://gh-readme-profile.vercel.app/api?username=wenux2003&hide=repos,stars,forks,commits,issues,contributed&show=issues_closed&theme=dark&title_color=7B61FF&icon_color=7B61FF&text_color=9f9f9f&bg_color=15131f&hide_border=true" alt="Wenura's GitHub pull requests and closed issues" />
-  </a>
-</p>
-
----
-
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=wenux2003&theme=radical&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" alt="Wenura's Streak Stats" />
 </p>
