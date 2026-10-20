@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://shieldcn.dev/views/user/wenux2003.svg?base=212&variant=branded"/>
+  <img src="https://shieldcn.dev/views/user/wenux2003.svg?base=212&variant=secondary&mode=dark&logo=github&logoColor=white&label=Profile%20Views&size=sm&split=true"/>
 </p>
 
 <h3 align="center">💡 I design and build clean, scalable, and user-focused software solutions.</h3>
