@@ -81,9 +81,16 @@
 </p>
 ---
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=wenux2003&theme=radical&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" alt="Wenura's Streak Stats" />
-</p>
+<table>
+  <tr>
+    <td width="60%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=wenux2003&theme=radical&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" alt="Wenura's Streak Stats" width="100%" />
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlkdm82YXlwdjlxMzFqMjVod2I3bmF1bzRyamh5eXNwNXE5Y3ZqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dX1iTuEIj4yfwHDUCy/giphy.gif" alt="Animated GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
