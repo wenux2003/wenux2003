@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wenux2003.wenux2003&left_text=Profile%20Views&left_color=555555&right_color=7B61FF&logo=github"/>
+  <img src="https://img.shields.io/badge/Profile_Views-212-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <h3 align="center">💡 I design and build clean, scalable, and user-focused software solutions.</h3>
