@@ -89,9 +89,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph.svg" />
-    <img alt="GitHub contribution Pac-Man animation" src="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph.svg?v=2" />
+    <img alt="GitHub contribution Pac-Man animation" src="https://raw.githubusercontent.com/wenux2003/wenux2003/output/pacman-contribution-graph.svg?v=2" />
   </picture>
 </p>
 
