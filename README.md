@@ -31,44 +31,53 @@
 
 ### **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://devicons.io/devicons/icons/html5.svg" height="24" alt="HTML5" /> HTML5 &nbsp;
+  <img src="https://devicons.io/devicons/icons/css3.svg" height="24" alt="CSS3" /> CSS3 &nbsp;
+  <img src="https://devicons.io/devicons/icons/javascript.svg" height="24" alt="JavaScript" /> JavaScript &nbsp;
+  <img src="https://devicons.io/devicons/icons/typescript.svg" height="24" alt="TypeScript" /> TypeScript &nbsp;
+  <img src="https://devicons.io/devicons/icons/python.svg" height="24" alt="Python" /> Python &nbsp;
+  <img src="https://devicons.io/devicons/icons/php.svg" height="24" alt="PHP" /> PHP &nbsp;
+  <img src="https://devicons.io/devicons/icons/c.svg" height="24" alt="C" /> C &nbsp;
+  <img src="https://devicons.io/devicons/icons/cpp.svg" height="24" alt="C++" /> C++ &nbsp;
+  <img src="https://devicons.io/devicons/icons/java.svg" height="24" alt="Java" /> Java &nbsp;
+  <img src="https://devicons.io/devicons/icons/kotlin.svg" height="24" alt="Kotlin" /> Kotlin &nbsp;
+  <img src="https://devicons.io/devicons/icons/r.svg" height="24" alt="R" /> R &nbsp;
+  <strong>SQL</strong> &nbsp;
+  <img src="https://devicons.io/devicons/icons/dart.svg" height="24" alt="Dart" /> Dart
 </p>
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://devicons.io/devicons/icons/react.svg" height="24" alt="React" /> React &nbsp;
+  <img src="https://devicons.io/devicons/icons/react.svg" height="24" alt="React Native" /> React Native &nbsp;
+  <img src="https://devicons.io/devicons/icons/nextjs.svg" height="24" alt="Next.js" /> Next.js &nbsp;
+  <img src="https://devicons.io/devicons/icons/nodejs.svg" height="24" alt="Node.js" /> Node.js &nbsp;
+  <img src="https://devicons.io/devicons/icons/express.svg" height="24" alt="Express" /> Express &nbsp;
+  <img src="https://devicons.io/devicons/icons/bootstrap.svg" height="24" alt="Bootstrap" /> Bootstrap &nbsp;
+  <img src="https://devicons.io/devicons/icons/tailwindcss.svg" height="24" alt="Tailwind CSS" /> Tailwind CSS &nbsp;
+  <img src="https://devicons.io/devicons/icons/spring.svg" height="24" alt="Spring Boot" /> Spring Boot &nbsp;
+  <img src="https://devicons.io/devicons/icons/redux.svg" height="24" alt="Redux" /> Redux
 </p>
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://devicons.io/devicons/icons/git.svg" height="24" alt="Git" /> Git &nbsp;
+  <img src="https://devicons.io/devicons/icons/github.svg" height="24" alt="GitHub" /> GitHub &nbsp;
+  <img src="https://devicons.io/devicons/icons/docker.svg" height="24" alt="Docker" /> Docker &nbsp;
+  <img src="https://devicons.io/devicons/icons/figma.svg" height="24" alt="Figma" /> Figma &nbsp;
+  <img src="https://devicons.io/devicons/icons/vscode.svg" height="24" alt="VS Code" /> VS Code &nbsp;
+  <img src="https://devicons.io/devicons/icons/mongodb.svg" height="24" alt="MongoDB" /> MongoDB &nbsp;
+  <img src="https://devicons.io/devicons/icons/mysql.svg" height="24" alt="MySQL" /> MySQL &nbsp;
+  <img src="https://devicons.io/devicons/icons/postgresql.svg" height="24" alt="PostgreSQL" /> PostgreSQL &nbsp;
+  <img src="https://devicons.io/devicons/icons/supabase.svg" height="24" alt="Supabase" /> Supabase &nbsp;
+  <img src="https://devicons.io/devicons/icons/firebase.svg" height="24" alt="Firebase" /> Firebase &nbsp;
+  <img src="https://devicons.io/devicons/icons/canva.svg" height="24" alt="Canva" /> Canva &nbsp;
+  <img src="https://devicons.io/devicons/icons/xampp.svg" height="24" alt="XAMPP" /> XAMPP &nbsp;
+  <img src="https://devicons.io/devicons/icons/swagger.svg" height="24" alt="Swagger / OpenAPI" /> Swagger / OpenAPI &nbsp;
+  <img src="https://devicons.io/devicons/icons/postman.svg" height="24" alt="Postman" /> Postman &nbsp;
+  <img src="https://devicons.io/devicons/icons/jest.svg" height="24" alt="Jest" /> Jest &nbsp;
+  <img src="https://devicons.io/devicons/icons/github-actions.svg" height="24" alt="GitHub Actions" /> GitHub Actions &nbsp;
+  <img src="https://devicons.io/devicons/icons/linux.svg" height="24" alt="Linux" /> Linux
 </p>
 
 ---
